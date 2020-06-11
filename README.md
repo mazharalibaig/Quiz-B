@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots :
+
+Initial display:
+![](images/Screenshot%20from%202020-06-11%2018-07-28.png)
+
+Options Disappear as you choose:
+![](images/Screenshot%20from%202020-06-11%2018-08-00.png)
+
+Final Score and Play again:
+![](images/Screenshot%20from%202020-06-11%2018-08-06.png	)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
